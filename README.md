@@ -1,4 +1,4 @@
-#sudy Tips and techniques
+#tsudy Tips and techniques
 A collaboration mini knowledge base where each member shares an effective study method 
 to help students learn better and stay productive
 ##Table of contents
