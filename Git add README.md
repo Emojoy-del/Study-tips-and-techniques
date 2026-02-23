@@ -15,7 +15,7 @@ Studying effectively is not about spending more time but using the right techniq
 This repository highlights proven study methods that improve focus,memory and understanding 
 .
 ## Pomodoro Techniques
-**contributer;**Team member 1
+**contributer -** *Team member 1*
 The pomodoro techniques involves studying for 25 minutes followed by a 5 minute break
 
 **Benefits**
@@ -24,7 +24,7 @@ The pomodoro techniques involves studying for 25 minutes followed by a 5 minute 
 - Help manage time effectively
   
 ### Active recall
-**contributer** Team number 2 
+**contributer** *Team number 2* 
 Active recall involves testing yourself instead of reading notes 
 
 **Benefits**
@@ -33,7 +33,7 @@ Active recall involves testing yourself instead of reading notes
 - Help identify weak areas
 
 #### Spaced repetition
-**Contributer** Team member 3
+**Contributer** *Team member 3*
 Spaced repitition involves reviewing material at increasing intervals over time
 
 **Benefits**
